@@ -1,0 +1,94 @@
+<!DOCTYPE html>
+<html class="title" lang="en" dir="ltr">
+    <head>
+            <Title>Horror Genre</Title>
+            <a ref="https://en.wikipedia.org/wiki/Horror_film#Types_of_horror"></a>
+    </head>
+    <body>
+    
+        <!-- figure out how to create a title-->
+    <p>A horror film is one that seeks to <b>elicit fear</b> in its audience for entertainment purposes. Horror films 
+       additionally aim to <b>evoke</b> viewers' <em>nightmares, revulsions and terror of the unknown or the macabre</em>. Initially 
+       inspired by literature from authors such as <a href="https://en.wikipedia.org/wiki/Edgar_Allan_Poe" target="_blank">Edgar Allan Poe</a>, <a href="https://en.wikipedia.org/wiki/Bram_Stoker" target="_blank">Bram Stoker</a>, and <a href="https://en.wikipedia.org/wiki/Mary_Shelley" target="_blank">Mary Shelley</a>, horror has existed 
+       as a film genre for more than a century. Horror may also overlap with the <u>fantasy</u>, <u>supernatural fiction</u>, and <u>thriller</u> genres.</p> 
+            <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/8/8a/Speculative_fiction_portal_logo_small_transparent.png/200px-Speculative_fiction_portal_logo_small_transparent.png" Align="right">
+       <!-- add picture / url-->
+    <p>Plots within the horror genre often involve the intrusion of an evil force, event, or personage into the everyday
+     world. 
+     <br>
+     Prevalent elements include:
+                <ul> 
+                    <li>ghosts</li>
+                    <li>extraterrestrials</li> 
+                    <li>vampires</li>
+                    <li>werewolves</li>
+                    <li>mummies</li>
+                    <li>demons</li>
+                    <li>satanism</li>
+                    <li>The Devil</li>
+                    <li>evil clowns</li>
+                    <li>gore</li>
+                    <li>torture</li>
+                    <li>evil witches</li>
+                    <li>demonic possession</li>
+                    <li>Oujia boards</li>
+                    <li>monsters</li>
+                    <li>zombies</li>
+                    <li>disturbed children</li>
+                    <li>cannibalism</li>
+                    <li>psychopaths</li>
+                    <li>natural forces</li>
+                    <li>cults</li>
+                    <li>dark magic</li>
+                    <li>dystopian or apocalyptic worlds</li>
+                    <li>serial killers</li>
+                </ul>
+      </p>
+    <!-- add picture / url-->
+    <p>In the 1930s Universal Pictures continued producing films based on <em>Gothic Horror</em>. The studio entered a 
+     Golden Age of monster movies in the '30s, releasing a string of hit horror movies. In this decade, the 
+     studio assembled several <em>iconic monsters</em> in motion picture history including <a href="https://en.wikipedia.org/wiki/Dracula" target="_blank">Dracula</a>,<a href="https://en.wikipedia.org/wiki/Frankenstein" target="_blank">Frankenstein</a>, 
+     <a href="https://en.wikipedia.org/wiki/The_Mummy_(franchise)" target="_blank">The Mummy</a>, and<a href="https://en.wikipedia.org/wiki/The_Invisible_Man" target="_blank"> The Invisible Man</a>. Each movie starring these monsters would go on to make sequels 
+     and each of the characters would go on to cross-over with one another in a cinematic shared universe. 
+     The films would retroactively be classified together as part of the<a href="https://en.wikipedia.org/wiki/Universal_Classic_Monsters" target="_blank">Universal Classic Monsters series.</a></p>
+       <br> 
+        <p><h4>Types of Horror</h4>
+        <ul>
+            <li><em><b>Body horror:</em></b> intentionally showcases graphic or psychologically disturbing violations of 
+                human body. These violations may manifest through aberrant sex, mutations, mutilation, zombification, gratuitous violence, 
+                disease, or unnatural movements of the body. It has roots in Gothic literature and has expanded to include
+                other media. Famous body horror films include The Thing (1982), Videodrome (1983), The Fly (1986), 
+                and Tetsuo: The Iron Man (1989)</li>
+                <br>
+            <li><em><b>Comedy horror:</b></em> combines elements of comedy and horror film. The comedy horror genre often crosses over with 
+                the black comedy genre. It occasionally includes horror films with lower ratings that are aimed at a family audience. 
+                The short story The Legend of Sleepy Hollow by Washington Irving is cited as "the first great comedy-horror story".</li>
+                <br>
+            <li><em><b>Folk horror:</b></em> typically includes a rural setting and themes of isolation, religion, the power of nature, and the potential
+                darkness of rural landscapes.[167][168] Frequently cited examples are The White Reindeer (1952), Witchfinder General 
+                (1968), The Blood on Satan's Claw (1971), The Wicker Man (1973), The Witch (2015) and Midsommar (2019).</li>
+                <br>
+            <li><em><b>Found footage horror:</b></em> "technique" gives the audience a first person view of the events on screen, and 
+                presents the footage as being discovered after. Horror films which are framed as being made up of "found-footage" 
+                merge the experiences of the audience and characters, which may induce suspense, shock, and bafflement. 
+                Examples of first-person horror include Nightcall, The Blair Witch Project (1999), Noroi: The Curse (2005),
+                Paranormal Activity (2007), Cloverfield (2008), and Devil's Due (2014).</li>
+                <br>
+            <li><em><b>Gothic horror:</b></em> incorporates elements of Gothic literature, including romance, dread, and the supernatural.</li>
+            <br>
+            <li><em><b>Natural horror:</b></em> is a subgenre of horror films "featuring nature running amok in the form of mutated beasts, 
+                carnivorous insects, and normally harmless animals or plants turned into cold-blooded killers."
+                Frequently cited examples are Them! (1954), Piranha (1978), Prophecy (1979), Alligator (1980) and Cujo (1983).</li>
+                <br>
+            <li><em><b>Slasher horror:</b></em> is a horror subgenre, which involving a killer murdering a group of people (usually teenagers), 
+                usually by use of bladed tools. Some of the most notable slasher films include The Texas Chainsaw Massacre (1974), 
+                Halloween (1978), Friday the 13th (1980), Sleepaway Camp (1983), A Nightmare on Elm Street (1984), Scream (1996), and
+                I Know What You Did Last Summer (1997).</li>
+                <br>
+            <li><em><b>Teen horror:</b></em> is a horror subgenre that victimizes teenagers while usually promoting strong, anti-conformity teenage leads,
+                appealing to young generations. This subgenre often depicts themes of sex, under-aged drinking, and gore. It was most 
+                popular in 1964 and 1965.</li>
+    
+    </body>
+
+</html>
